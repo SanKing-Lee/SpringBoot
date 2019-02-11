@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4453f6-6d11-482a-b5ea-b9898c2e7707" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/el/DemoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/el/ElConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/el/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/el/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/prepost/BeanWayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/prepost/JSR250WayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/prepost/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/prepost/PrePostConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/profile/DemoBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/profile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch2/profile/ProfileConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch2/prepost/JSR250WayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch2/prepost/JSR250WayService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,22 +21,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+            <state relative-caret-position="621">
+              <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/BeanWayService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/profile/DemoBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="322">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
               <folding>
-                <element signature="e#74#75#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,53 +44,52 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/JSR250WayService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="224">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/PrePostConfig.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/profile/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="161">
+              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/profile/ProfileConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/BeanWayService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch2/el/ElConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+            <state relative-caret-position="138">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#74#75#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,10 +182,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ch2/el/DemoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch2/el/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch2/el/ElConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ch2/prepost/BeanWayService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch2/prepost/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch2/prepost/PrePostConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ch2/profile/ProfileConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch2/profile/DemoBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch2/profile/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch2/prepost/JSR250WayService.java" />
       </list>
     </option>
@@ -205,10 +201,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="20" />
-    <option name="width" value="1660" />
-    <option name="height" value="970" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -220,7 +216,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,16 +262,26 @@
               <item name="springboot_hello" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch2" type="462c0819:PsiDirectoryNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549254902566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549867418621" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -292,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.prepostconfig">
+  <component name="RunManager" selected="Application.profileconfig">
     <configuration name="aopconfig" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ch1.aopconfig.Main" />
       <module name="springboot_hello" />
@@ -330,6 +335,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="profileconfig" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ch2.profile.Main" />
+      <module name="springboot_hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="scopeconfig" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ch2.scope.Main" />
       <module name="springboot_hello" />
@@ -341,6 +353,7 @@
       <item itemvalue="Application.scopeconfig" />
       <item itemvalue="Application.elconfig" />
       <item itemvalue="Application.prepostconfig" />
+      <item itemvalue="Application.profileconfig" />
       <item itemvalue="Application.diconfig" />
       <item itemvalue="Application.aopconfig" />
       <item itemvalue="Application.javaconfig" />
@@ -385,14 +398,30 @@
       <option name="project" value="LOCAL" />
       <updated>1548938748353</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="PrePost construct">
+      <created>1549255029028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549255029028</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27010724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,12 +430,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49396783" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4919571" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50603217" side_tool="true" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5080429" side_tool="true" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49798927" weight="0.32960895" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4966488" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49865952" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49798927" weight="0.32960895" />
@@ -426,7 +455,8 @@
     <MESSAGE value="finish aopconfig" />
     <MESSAGE value="Scope: Singleton and Prototype" />
     <MESSAGE value="update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README" />
+    <MESSAGE value="PrePost construct" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrePost construct" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SpringBoot.iml">
@@ -607,6 +637,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/PrePostConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/el/ElConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch2/scope/DemoPrototypeService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -637,69 +698,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/el/ElConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="621">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/profile/ProfileConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/PrePostConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="207">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/profile/DemoBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch2/profile/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/BeanWayService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="138">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding>
             <element signature="e#74#75#0" expanded="true" />
             <element signature="e#129#130#0" expanded="true" />
             <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch2/prepost/JSR250WayService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="224">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
